@@ -1,0 +1,21 @@
+
+div{
+	color: pink;
+}
+.intro
+H1{
+	text-transform: uppercase;
+	letter-spacing: 10px;
+}
+
+Body{
+	margin: 0px;
+}
+
+.div {
+	display: grid;
+	height: 20vh;
+}
+table{
+	border: dotted white;
+}
